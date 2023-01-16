@@ -3,7 +3,7 @@ python3 << EOF
 import vim
 
 def stylohello():
-    print('Hello World")
+    print("Hello World")
 EOF
 
 function! vimstylo#stylohello()
